@@ -12,6 +12,7 @@
     background-repeat: no-repeat;
 }
 
+
 .body{
     position: absolute;
     left: 0;
@@ -23,6 +24,7 @@
     justify-content: center;
     align-items: center;
 }
+
 
 
 
@@ -38,6 +40,7 @@
 }
 
 
+
 .head{
 
     height: 55px;
@@ -50,6 +53,7 @@
    padding-top: 13px;
 
 }
+
 
 .center label{
 
@@ -73,11 +77,13 @@
 
 }
 
+
 center input:hover{
     background-color: black;
     color: white;
 
 }
+
 
 .center select{
 
@@ -92,6 +98,7 @@ center input:hover{
     background-color:rgb(219, 219, 219);
 
 }
+
 
 .center button{
 
@@ -112,6 +119,7 @@ center input:hover{
 
 }
 
+
 .btn{
   
  
@@ -123,6 +131,7 @@ center input:hover{
 
 }
 
+
 .btn button{
 
   
@@ -132,6 +141,7 @@ center input:hover{
     width: 200px;
 
 }
+
 
 #totalTip{
    
